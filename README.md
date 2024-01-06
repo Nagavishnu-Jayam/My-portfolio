@@ -1,9 +1,10 @@
 Welcome to my GitHub portfolio! I'm passionate about coding and here are a few highlights:
 
 Projects:
-
+----------
+--------------------------------------------------------------------------------
 Project 1: HOSPITAL-MANAGEMENT-SYSTEM 
-
+--------------------------------------------------------------------------------
 Description:
 created a website to book the slots for the
 people to a particular hospital and particular doctor and the
@@ -12,9 +13,10 @@ store and manages data in the website.
 
 Technologies: 
 Python, Mysql , HTML , CSS
+
 --------------------------------------------------------------------------------
 Project 2: BLIND HELPER 
-
+--------------------------------------------------------------------------------
 Description:
 Blind helper is an android application developed using java
 programming language and designed in Android Studio. The project
@@ -24,9 +26,10 @@ weather, date and time, calculator and battery status.
 
 Technologies: 
 Android Studio IDE, Java.
+
 --------------------------------------------------------------------------------
 Project 3: Spotify Clone
-
+--------------------------------------------------------------------------------
 Description:
 Created a Spotify-inspired web app mirroring the user interface and
 features of the Spotify music player. Employed HTML, CSS, and
