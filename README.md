@@ -35,13 +35,15 @@ Created a Spotify-inspired web app mirroring the user interface and
 features of the Spotify music player. Employed HTML, CSS, and
 JavaScript for development
 
-Technologies: HTML , CSS , JavaScript
+Technologies: 
+HTML , CSS , JavaScript
+
 --------------------------------------------------------------------------------
 Skills:
-Backend Languages:  Java, Python, c, cpp
+Backend Languages:  Java, Python, C, Cpp
 Frontend Languages:  HTML,CSS,JS
 Data & ML: Pandas, Scikit-Learn.
-Database: SQL.
+Database: SQL, PL-SQL
 Version Control: Git.
 --------------------------------------------------------------------------------
 Contact:
@@ -49,6 +51,7 @@ Email: nagavishnujayam1999@gmail.com
 LinkedIn: https://www.linkedin.com/in/nagavishnu-jayam-5129011a9/
 Portfolio: https://jsnagavishnusai.netlify.app/
 
+--------------------------------------------------------------------------------
 
 Feel free to explore, give feedback, or reach out for collaboration. Happy coding!
 
